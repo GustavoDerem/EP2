@@ -1,0 +1,144 @@
+body{
+background-color: rgb(255, 255, 255);
+text-decoration-style: double;
+color: rgb(0, 0, 0);
+ font-style: initial;
+ background-size: 50%;
+ font-size: larger;
+ font-wei;
+}
+ 
+
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #454545;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #ad1c1c;
+}
+
+ul {
+    position:absolute;
+    top: 20mm;
+    width: 91.2%;
+    left:42mm;
+    
+}
+
+
+.logo{ 
+    width: 150px;
+}
+
+header{
+    background-color: rgb(0, 0, 0);
+   
+ }
+ .chorona2{
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+    
+    
+  }
+
+  footer{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    background-size: 10px;
+    width: 100%;
+    height: 70%;
+}
+
+.logo1{
+    width: 150px;
+}
+
+
+.logo2{
+    width: 70px;
+}
+    
+  
+
+
+
+.man{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+
+}
+
+button {
+    color: white;
+    background: #454545;
+    transition: transform 0.9s;
+    transform: translateX(1) scale(0.2);
+  }
+  
+  button:hover,
+  button:focus {
+    background: rgb(0, 0, 0);
+    transform: translateX(10px) scale(1.2);
+    
+  }
+h1{
+  
+}
+.um{
+    text-align: center;
+}
+
+.mary{
+     text-align: center;
+}
+.imgmary{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.imgman{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+
+section{ 
+    display: block;
+    color: rgb(0, 0, 0);
+    transition: transform 0.9s;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+section :hover,
+
+
+section :focus{
+    color: rgb(104, 92, 92);
+    border-block-color: rgb(255, 0, 0);
+    /* Change the link color to #111 (black) on hover */
+}
